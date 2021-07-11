@@ -5,4 +5,10 @@
 layout: default
 ---
 
-# Something
+# Available notes
+
+## Machine learning
+
+### Metrics
+
+ - [L-metrics]()
