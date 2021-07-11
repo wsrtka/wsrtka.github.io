@@ -23,8 +23,6 @@ email: witold.serwatka@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   My personal knowledge base.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: wsrtka.github.io
-url: https://wsrtka.github.io
 # twitter_username: jekyllrb
 github_username:  wsrtka
 
