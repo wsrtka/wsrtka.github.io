@@ -11,4 +11,4 @@ layout: default
 
 ### Metrics
 
- - [L-metrics]()
+ - [P-norms (L0, L1, L2, L∞)](./metrics/p-norms.md)
