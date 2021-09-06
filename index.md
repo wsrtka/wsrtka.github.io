@@ -11,4 +11,4 @@ layout: default
 
 ### Metrics
 
- - [P-norms (L0, L1, L2, L∞)](./metrics/p-norms.md)
+ - [P-norms (L0, L1, L2, L∞)]({{ site.baseurl }}{% link metrics/p-norms.md %})
