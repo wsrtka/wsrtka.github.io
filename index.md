@@ -12,4 +12,3 @@ layout: default
 ### Metrics
 
  - [P-norms (L0, L1, L2, L∞)]({% link metrics/p-norms.md %})
- - lalla
