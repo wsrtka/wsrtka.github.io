@@ -3,8 +3,6 @@ layout: default
 permalink: /metrics/p-norms
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 # P-norms
 
 In general, p-norms are defined as follows: let \\(p >= 1\\) be a real number. The p-norm of vector \\(x = (x_1,...,x_n)\\) is:
