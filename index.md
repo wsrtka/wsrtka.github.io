@@ -11,4 +11,4 @@ layout: default
 
 ### Metrics
 
- - [P-norms (L0, L1, L2, L∞)]({% link metrics/p-norms.md %})
+ - [P-norms (\\(L_0, L_1, L_2, L_∞\\))]({% link metrics/p-norms.md %})
