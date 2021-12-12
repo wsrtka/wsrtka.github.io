@@ -11,6 +11,7 @@ layout: default
 
 ### Concepts
 
+ - [Curse of dimensionality]({% link concepts/curse-of-dimensionality.md %})
  - [Types of learning]({% link concepts/types-of-learning.md %})
 
 ### Metrics
