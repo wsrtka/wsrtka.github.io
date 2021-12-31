@@ -16,4 +16,4 @@ $$
 E[\beta_{j}^{'}] = \beta_j
 $$
 
-regardless of the values of \((X_{ij}\)).
+regardless of the values of \\(X_{ij}\\).
