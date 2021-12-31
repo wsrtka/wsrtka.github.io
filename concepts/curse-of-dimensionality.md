@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /metrics/p-norms
+permalink: /concepts/curse-of-dimensionality
 ---
 
 # Curse of dimensionality
