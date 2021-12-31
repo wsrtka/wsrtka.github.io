@@ -17,3 +17,10 @@ layout: default
 ### Metrics
 
  - [P-norms (\\(L_0, L_1, L_2, L_∞\\))]({% link metrics/p-norms.md %})
+
+
+## Miscellaneous (to be grouped)
+
+### Algorithms
+
+ - [Moving average]({% link algorithms/moving-average.md %})
