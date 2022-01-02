@@ -13,6 +13,7 @@ layout: default
 
  - [Curse of dimensionality]({% link concepts/curse-of-dimensionality.md %})
  - [Linear unbiased estimator]({% link concepts/linear-unbiased-estimator.md %})
+ - [Regularization]({% link concepts/regularization.md %})
  - [Types of learning]({% link concepts/types-of-learning.md %})
 
 ### Metrics
